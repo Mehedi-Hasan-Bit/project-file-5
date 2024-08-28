@@ -1,0 +1,270 @@
+/*common start*/
+body{
+	margin:0;
+	padding:0;
+}
+/*common*/
+
+/*header start*/
+header{
+   border-bottom: 2px solid DarkGreen;
+   padding: 8px 0;
+}
+.container{
+    width: 90%;
+    /*border: 1px solid red;*/
+    margin: 0 auto ;
+    overflow: hidden;
+}
+.logo{
+	width: 10%;
+    /*border: 1px solid red;*/
+    float: left;
+}
+.logo img{
+    width: 100%;
+}
+.menu{
+	margin-top: 7px;
+	width: 45%;
+    /*border: 1px solid red;*/
+    float: right;
+}
+.menu ul{
+   float: right;
+}
+.menu ul li{
+    list-style: none;
+    float: left;
+}
+.menu ul li a{
+	font-family: sans-serif;
+	font-size: 16px;
+	font-weight: 600;
+	color: DarkGreen;
+    text-decoration: none;
+    margin: 0px 20px;
+    display:inline-block;
+}
+.menu ul li:last-child a{
+	margin-right:0;
+}
+
+/*header end*/
+/*banner Start*/
+
+.banner{
+  padding: 40px;
+  /*border: 2px solid red ;*/
+}
+.container2{
+	width: 50%;
+	margin: 0 auto;
+	/*border: 2px solid DarkGreen;*/
+}
+.b_content{
+	text-align: center;
+}
+.b_content h1{
+	margin: 0;
+     font-family: sans-serif;
+     font-size: 42px;
+     font-weight: 700;
+     color: DarkGreen;
+}
+.b_content h2{
+	margin: 10px 0;
+     font-family: sans-serif;
+     font-size: 42px;
+     font-weight: 700;
+     color: #8DC343;
+}
+.b_content p{
+	margin-top: 0;
+	margin-bottom: 15px;
+     font-family: sans-serif;
+     font-size: 16px;
+     font-weight: 400;
+     color: DarkGreen;
+     line-height: 23px;
+     word-spacing: 1px;
+
+}
+.b_img{
+  margin: 0 auto;
+  width: 75%;
+  /*border: 1px solid red;*/
+}
+.b_img img{
+   width: 100%;
+}
+
+
+
+/*banner end*/
+/*success start*/
+
+.success{
+    padding: 40px;
+}
+.s_content{
+    overflow: hidden;
+    font-family: sans-serif;
+}
+.s_left{
+    width: 40%;
+    /*border: 2px solid red;*/
+    float: left;
+    text-align: right;
+    padding: 0 10px 0 27px;
+}
+.s_left h2{
+    font-family: sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    color: DarkGreen;
+    margin: 0 0 5px;
+}
+.s_left p{
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: DarkGreen;
+    margin: 0px;
+    line-height: 25px;
+    word-spacing: 1px;
+}
+.s_right{
+    width: 50%;
+    /*border: 2px solid red;*/
+    float: right;
+    padding: 0 0 0 10px;
+}
+.s_right h1{
+    font-size:40px;
+    font-weight: 700;
+    color: DarkGreen;
+    line-height: 45px;
+    margin: 0;
+}
+/*success end*/
+/*feature start*/
+.feature{
+
+}
+.f_content{
+   overflow: hidden;
+}
+.f_single{
+   width:30%;
+   /*border: 2px solid DarkGreen;*/
+   font-family: sans-serif;
+   color: DarkGreen;
+   padding: 20px 11px 20px;
+   float: left;
+   margin-right: 27px;
+}
+.f_single:last-child{
+    margin-right: 0;
+}
+.pink{
+    background-color: #FEEBED;
+}
+.green{
+    background-color: #EAF9F4;
+}
+.code{
+   background-color: #FFF8E8;
+}
+.f_img{
+
+}
+.f_img img{
+   width: 100%;
+}
+.f_single h2{
+   margin: 1 5px 0;
+   font-size: 20px;
+   font-weight: 700;
+}
+.f_single p{
+    margin: 0;
+   font-size: 16px;
+   font-weight: 400;
+}
+
+/*feature end*/
+
+
+
+
+/*header*/
+.heade{
+	height: 100px;
+	text-color: white;
+	background-color: black;
+
+}
+.con{
+    overflow: hidden;
+}
+.blo{
+	float: left;
+    width: 60%;
+    height: 150px;
+    background-color: green;
+}
+.conta{
+	float: right;
+    width: 40%;
+    height: 150px;
+    background-color: teal;
+}
+.items{
+	float: left;
+	width: 33.33%;
+	height: 100px;
+}
+.aqua{
+    background-color: aqua;
+}
+.orange{
+    background-color: orange;
+}
+.yellow{
+    background-color: yellow;
+}  
+.footers{
+    clear: both;
+	height: 100px;
+	background-color: blue;
+}
+/*header*/
+
+
+.boder{
+     width: 100%;
+     /*border: 1px solid red;*/
+     margin: 200px 0 0;
+     /*background-color: DarkGreen;*/
+
+
+}
+.contai{
+    width: 100%;
+    height:85px;
+    /*border: 1px solid red;*/
+    float: left;
+    background-color: DarkGreen;
+    }
+.text_3{
+    width: 100%;
+    margin:30px 0;
+    color: white;
+    font-family: sans-serif;
+     font-size: 16px;
+     font-weight: 400;
+     text-align: center;  
+}
+
+
